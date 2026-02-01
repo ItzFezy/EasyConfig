@@ -1,0 +1,4 @@
+name: Testplugin
+version: '1.0-SNAPSHOT'
+main: dev.testplugin.Testplugin
+api-version: '1.21'
